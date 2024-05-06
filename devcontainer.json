@@ -1,0 +1,11 @@
+{
+    "name": "Solidity Development",
+    "dockerFile": "Dockerfile",
+    "extensions": [
+        "JuanBlanco.solidity"
+    ],
+    "settings": {
+        "terminal.integrated.shell.linux": "/bin/bash"
+    },
+    "forwardPorts": [8545]
+}
